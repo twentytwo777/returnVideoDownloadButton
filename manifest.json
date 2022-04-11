@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Return Video Download Button",
+    "description": "Extension to return the 'Download' button to the controlslist video for m.vk.com",
+    "version": "1.0",
+    "permissions": [],
+    "content_scripts": [
+        {
+            "matches": ["*://*.m.vk.com/*"],
+            "js": ["./assets/js/app.js"]
+        }
+    ],
+    "icons": { 
+        "16": "./assets/icons/icon16.png",
+        "48": "./assets/icons/icon48.png",
+       "128": "./assets/icons/icon128.png" 
+    } 
+}
