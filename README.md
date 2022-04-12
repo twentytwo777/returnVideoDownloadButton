@@ -1,6 +1,3 @@
-# returnVideoDownloadButton
-Extension to return the "Download" button to the controlslist video for m.vk.com
-
 # VK-Return-Button
 ![before](https://i.imgur.com/y8LMxOg.jpg)
 ![after](https://i.imgur.com/oNVDp3F.jpg)
